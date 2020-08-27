@@ -1,2 +1,4 @@
 # react-redux
-Created with CodeSandbox
+
+## An react redux project following [@tanaypratap's YouTube live videos](https://www.youtube.com/c/TanayUnpolished).
+
